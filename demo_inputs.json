@@ -1,0 +1,44 @@
+[
+    {
+        "hour": 9,
+        "mood": "happy",
+        "hunger": 2,
+        "diet": "veg",
+        "context": "none"
+    },
+    {
+        "hour": 19,
+        "mood": "stressed",
+        "hunger": 5,
+        "diet": "non-veg",
+        "context": "gaming"
+    },
+    {
+        "hour": 15,
+        "mood": "bored",
+        "hunger": 3,
+        "diet": "veg",
+        "context": "studying"
+    },
+    {
+        "hour": 22,
+        "mood": "lazy",
+        "hunger": 4,
+        "diet": "veg",
+        "context": "chilling"
+    },
+    {
+        "hour": 7,
+        "mood": "energetic",
+        "hunger": 4,
+        "diet": "veg",
+        "context": "gym"
+    },
+    {
+        "hour": 13,
+        "mood": "sad",
+        "hunger": 5,
+        "diet": "non-veg",
+        "context": "none"
+    }
+]

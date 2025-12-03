@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+user_history.json
+.DS_Store

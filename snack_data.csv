@@ -1,0 +1,1001 @@
+hour,time_of_day_category,mood,hunger,diet,context,snack_category_label,snack_id
+17,evening,lazy,2,veg,gym,Almonds & Raisins,9
+7,morning,energetic,3,veg,chilling,Chocolate Bar,2
+13,afternoon,sad,4,veg,gaming,Samosa,7
+12,afternoon,bored,4,veg,gaming,Samosa,7
+19,evening,happy,4,veg,none,Instant Noodles,10
+13,afternoon,sad,4,veg,none,Samosa,7
+18,evening,happy,1,veg,gaming,Fruit Salad,5
+20,evening,stressed,4,non-veg,studying,Samosa,7
+12,afternoon,sad,4,non-veg,studying,Samosa,7
+20,evening,bored,4,veg,chilling,Samosa,7
+10,morning,bored,3,veg,chilling,Ice Cream Cup,12
+16,afternoon,stressed,1,veg,gaming,Masala Popcorn,1
+20,evening,stressed,4,veg,chilling,Samosa,7
+12,afternoon,happy,4,veg,gaming,Samosa,7
+22,night,lazy,3,non-veg,gaming,Protein Shake,6
+9,morning,energetic,3,non-veg,gym,Almonds & Raisins,9
+14,afternoon,bored,3,non-veg,gym,Fruit Salad,5
+12,afternoon,stressed,5,veg,gym,Samosa,7
+19,evening,stressed,3,non-veg,none,Chocolate Bar,2
+9,morning,bored,2,veg,studying,Masala Popcorn,1
+19,evening,energetic,4,veg,none,Paneer Sandwich,3
+23,night,energetic,4,veg,none,Samosa,7
+8,morning,energetic,1,non-veg,none,Protein Shake,6
+15,afternoon,bored,4,veg,gaming,Samosa,7
+17,evening,bored,2,veg,studying,Fruit Salad,5
+22,night,lazy,3,veg,gym,Protein Shake,6
+8,morning,happy,1,veg,none,Almonds & Raisins,9
+19,evening,bored,5,non-veg,chilling,Chicken Wrap,4
+12,afternoon,happy,4,non-veg,none,Paneer Sandwich,3
+10,morning,stressed,2,veg,none,Ice Cream Cup,12
+16,afternoon,stressed,1,veg,chilling,Ice Cream Cup,12
+23,night,sad,1,veg,studying,Masala Popcorn,1
+11,morning,bored,1,veg,chilling,Masala Popcorn,1
+16,afternoon,stressed,2,veg,chilling,Ice Cream Cup,12
+9,morning,lazy,2,veg,none,Fruit Salad,5
+22,night,bored,4,veg,none,Samosa,7
+14,afternoon,energetic,5,veg,gaming,Instant Noodles,10
+23,night,stressed,5,non-veg,chilling,Samosa,7
+10,morning,stressed,3,non-veg,chilling,Samosa,7
+23,night,stressed,4,veg,gaming,Samosa,7
+16,afternoon,stressed,1,non-veg,gym,Almonds & Raisins,9
+7,morning,bored,2,veg,gaming,Nachos with Salsa,8
+13,afternoon,sad,4,non-veg,chilling,Samosa,7
+15,afternoon,bored,4,veg,gym,Paneer Sandwich,3
+13,afternoon,bored,2,non-veg,chilling,Masala Popcorn,1
+12,afternoon,lazy,3,veg,studying,Almonds & Raisins,9
+9,morning,stressed,2,non-veg,gaming,Ice Cream Cup,12
+8,morning,lazy,5,veg,none,Nachos with Salsa,8
+22,night,energetic,2,veg,gaming,Almonds & Raisins,9
+8,morning,energetic,3,non-veg,studying,Protein Shake,6
+7,morning,stressed,4,non-veg,gym,Samosa,7
+22,night,sad,3,non-veg,gym,Fruit Salad,5
+21,night,bored,5,veg,chilling,Samosa,7
+8,morning,lazy,3,veg,none,Almonds & Raisins,9
+22,night,energetic,4,non-veg,none,Samosa,7
+12,afternoon,happy,5,veg,studying,Paneer Sandwich,3
+9,morning,lazy,3,non-veg,studying,Ice Cream Cup,12
+11,morning,energetic,3,veg,chilling,Protein Shake,6
+7,morning,stressed,1,veg,none,Masala Popcorn,1
+16,afternoon,sad,3,non-veg,studying,Nachos with Salsa,8
+20,evening,lazy,3,non-veg,none,Fruit Salad,5
+8,morning,bored,4,non-veg,none,Samosa,7
+12,afternoon,lazy,3,veg,studying,Masala Popcorn,1
+7,morning,bored,3,veg,none,Fruit Salad,5
+20,evening,energetic,4,veg,chilling,Protein Shake,6
+21,night,energetic,3,veg,chilling,Masala Popcorn,1
+8,morning,happy,1,non-veg,none,Fruit Salad,5
+23,night,lazy,3,veg,studying,Masala Popcorn,1
+17,evening,lazy,2,veg,chilling,Nachos with Salsa,8
+10,morning,happy,3,veg,gaming,Almonds & Raisins,9
+22,night,energetic,3,veg,none,Almonds & Raisins,9
+14,afternoon,stressed,5,veg,chilling,Samosa,7
+14,afternoon,stressed,4,veg,none,Samosa,7
+7,morning,energetic,4,veg,studying,Protein Shake,6
+14,afternoon,happy,2,veg,studying,Almonds & Raisins,9
+20,evening,energetic,4,veg,studying,Almonds & Raisins,9
+16,afternoon,bored,3,non-veg,gaming,Chicken Wrap,4
+9,morning,energetic,1,veg,gaming,Almonds & Raisins,9
+18,evening,energetic,4,veg,studying,Protein Shake,6
+14,afternoon,stressed,5,non-veg,none,Samosa,7
+18,evening,bored,5,non-veg,chilling,Samosa,7
+22,night,stressed,2,veg,chilling,Masala Popcorn,1
+21,night,bored,2,veg,none,Nachos with Salsa,8
+10,morning,energetic,3,veg,none,Protein Shake,6
+19,evening,happy,5,veg,studying,Almonds & Raisins,9
+20,evening,bored,4,non-veg,chilling,Samosa,7
+11,morning,happy,4,non-veg,gaming,Samosa,7
+10,morning,lazy,3,non-veg,studying,Protein Shake,6
+18,evening,bored,2,veg,studying,Masala Popcorn,1
+14,afternoon,happy,5,veg,chilling,Samosa,7
+7,morning,sad,2,non-veg,gym,Protein Shake,6
+8,morning,happy,4,non-veg,chilling,Nachos with Salsa,8
+15,afternoon,stressed,4,veg,gaming,Samosa,7
+15,afternoon,lazy,2,veg,chilling,Nachos with Salsa,8
+11,morning,sad,1,veg,gaming,Chocolate Bar,2
+10,morning,bored,3,veg,none,Chocolate Bar,2
+13,afternoon,lazy,4,non-veg,gaming,Chicken Wrap,4
+21,night,lazy,5,veg,chilling,Samosa,7
+23,night,happy,3,veg,gaming,Almonds & Raisins,9
+7,morning,stressed,3,veg,chilling,Ice Cream Cup,12
+14,afternoon,energetic,5,veg,studying,Samosa,7
+17,evening,stressed,3,non-veg,none,Nachos with Salsa,8
+16,afternoon,bored,3,non-veg,gym,Almonds & Raisins,9
+9,morning,lazy,2,veg,none,Instant Noodles,10
+9,morning,bored,4,veg,none,Instant Noodles,10
+21,night,stressed,5,veg,gaming,Samosa,7
+18,evening,bored,3,non-veg,none,Instant Noodles,10
+18,evening,stressed,2,non-veg,chilling,Masala Popcorn,1
+8,morning,stressed,3,veg,gym,Almonds & Raisins,9
+23,night,happy,4,veg,gym,Almonds & Raisins,9
+13,afternoon,stressed,1,veg,studying,Chocolate Bar,2
+9,morning,happy,2,veg,none,Almonds & Raisins,9
+15,afternoon,bored,2,veg,chilling,Nachos with Salsa,8
+20,evening,stressed,3,non-veg,studying,Nachos with Salsa,8
+16,afternoon,lazy,5,veg,gaming,Samosa,7
+19,evening,bored,5,veg,gaming,Instant Noodles,10
+11,morning,stressed,5,veg,gaming,Samosa,7
+16,afternoon,lazy,2,veg,none,Nachos with Salsa,8
+7,morning,sad,1,veg,gaming,Chocolate Bar,2
+23,night,stressed,2,veg,gaming,Nachos with Salsa,8
+11,morning,sad,1,veg,none,Chocolate Bar,2
+7,morning,bored,3,non-veg,studying,Nachos with Salsa,8
+17,evening,bored,2,veg,gym,Chocolate Bar,2
+15,afternoon,lazy,2,veg,studying,Nachos with Salsa,8
+22,night,happy,1,veg,studying,Almonds & Raisins,9
+19,evening,happy,1,non-veg,studying,Almonds & Raisins,9
+16,afternoon,energetic,2,veg,chilling,Fruit Salad,5
+17,evening,lazy,2,non-veg,gaming,Almonds & Raisins,9
+7,morning,happy,3,veg,chilling,Almonds & Raisins,9
+8,morning,energetic,1,veg,studying,Almonds & Raisins,9
+19,evening,lazy,4,veg,chilling,Chocolate Bar,2
+8,morning,bored,2,veg,chilling,Masala Popcorn,1
+12,afternoon,sad,1,non-veg,gaming,Chicken Wrap,4
+21,night,stressed,2,non-veg,studying,Masala Popcorn,1
+17,evening,bored,3,veg,studying,Masala Popcorn,1
+12,afternoon,stressed,5,non-veg,studying,Samosa,7
+23,night,bored,4,non-veg,studying,Masala Popcorn,1
+17,evening,lazy,3,veg,chilling,Masala Popcorn,1
+11,morning,bored,5,veg,chilling,Samosa,7
+22,night,lazy,3,non-veg,chilling,Nachos with Salsa,8
+14,afternoon,bored,4,non-veg,chilling,Samosa,7
+7,morning,energetic,1,veg,studying,Almonds & Raisins,9
+9,morning,lazy,3,non-veg,gaming,Ice Cream Cup,12
+13,afternoon,stressed,5,veg,gaming,Instant Noodles,10
+22,night,energetic,3,veg,gaming,Almonds & Raisins,9
+23,night,bored,3,non-veg,gaming,Nachos with Salsa,8
+21,night,stressed,1,non-veg,gaming,Masala Popcorn,1
+12,afternoon,bored,4,veg,none,Instant Noodles,10
+12,afternoon,stressed,4,veg,gaming,Samosa,7
+13,afternoon,stressed,5,non-veg,chilling,Samosa,7
+23,night,lazy,3,veg,chilling,Nachos with Salsa,8
+15,afternoon,bored,1,non-veg,gaming,Masala Popcorn,1
+15,afternoon,stressed,3,veg,studying,Nachos with Salsa,8
+8,morning,stressed,3,non-veg,none,Chocolate Bar,2
+21,night,stressed,4,veg,gaming,Samosa,7
+10,morning,happy,3,veg,none,Fruit Salad,5
+8,morning,lazy,3,veg,none,Fruit Salad,5
+16,afternoon,lazy,3,veg,gym,Protein Shake,6
+12,afternoon,lazy,5,veg,chilling,Samosa,7
+13,afternoon,lazy,4,veg,chilling,Instant Noodles,10
+12,afternoon,stressed,4,veg,chilling,Samosa,7
+12,afternoon,lazy,5,veg,chilling,Samosa,7
+8,morning,happy,1,non-veg,gaming,Almonds & Raisins,9
+21,night,bored,2,non-veg,chilling,Fruit Salad,5
+15,afternoon,energetic,2,non-veg,chilling,Ice Cream Cup,12
+15,afternoon,energetic,2,non-veg,chilling,Protein Shake,6
+10,morning,bored,3,veg,none,Samosa,7
+19,evening,stressed,3,veg,studying,Almonds & Raisins,9
+13,afternoon,stressed,4,non-veg,chilling,Samosa,7
+12,afternoon,stressed,4,veg,chilling,Samosa,7
+10,morning,sad,1,veg,chilling,Ice Cream Cup,12
+9,morning,sad,4,veg,chilling,Samosa,7
+8,morning,bored,1,veg,chilling,Nachos with Salsa,8
+15,afternoon,happy,1,veg,gaming,Almonds & Raisins,9
+13,afternoon,sad,4,non-veg,studying,Samosa,7
+22,night,stressed,3,veg,studying,Masala Popcorn,1
+16,afternoon,bored,3,veg,none,Samosa,7
+22,night,happy,2,veg,gaming,Protein Shake,6
+19,evening,lazy,2,non-veg,none,Fruit Salad,5
+10,morning,bored,2,non-veg,studying,Chocolate Bar,2
+19,evening,lazy,4,veg,none,Instant Noodles,10
+20,evening,happy,4,non-veg,gaming,Samosa,7
+12,afternoon,lazy,4,non-veg,chilling,Samosa,7
+20,evening,happy,3,non-veg,gaming,Almonds & Raisins,9
+21,night,lazy,5,veg,gym,Protein Shake,6
+22,night,sad,2,veg,gaming,Masala Popcorn,1
+9,morning,stressed,4,veg,none,Samosa,7
+10,morning,energetic,1,veg,studying,Protein Shake,6
+11,morning,energetic,1,non-veg,chilling,Ice Cream Cup,12
+16,afternoon,bored,2,non-veg,none,Almonds & Raisins,9
+21,night,energetic,3,veg,chilling,Masala Popcorn,1
+14,afternoon,energetic,5,veg,chilling,Samosa,7
+9,morning,energetic,2,veg,gym,Protein Shake,6
+15,afternoon,sad,1,veg,chilling,Nachos with Salsa,8
+10,morning,stressed,1,non-veg,gaming,Ice Cream Cup,12
+18,evening,sad,3,non-veg,gym,Almonds & Raisins,9
+9,morning,energetic,3,veg,gaming,Almonds & Raisins,9
+21,night,bored,4,non-veg,studying,Nachos with Salsa,8
+23,night,stressed,2,veg,chilling,Nachos with Salsa,8
+18,evening,energetic,3,veg,chilling,Nachos with Salsa,8
+16,afternoon,energetic,4,veg,none,Instant Noodles,10
+23,night,energetic,1,veg,studying,Protein Shake,6
+7,morning,happy,1,veg,none,Fruit Salad,5
+17,evening,lazy,1,veg,studying,Protein Shake,6
+22,night,bored,2,non-veg,chilling,Nachos with Salsa,8
+16,afternoon,bored,3,non-veg,studying,Masala Popcorn,1
+7,morning,bored,3,veg,chilling,Fruit Salad,5
+23,night,energetic,2,veg,none,Almonds & Raisins,9
+13,afternoon,stressed,3,veg,gym,Fruit Salad,5
+15,afternoon,happy,2,non-veg,none,Fruit Salad,5
+8,morning,happy,2,veg,chilling,Almonds & Raisins,9
+12,afternoon,bored,4,veg,none,Samosa,7
+8,morning,bored,4,veg,chilling,Samosa,7
+12,afternoon,bored,5,veg,gym,Samosa,7
+7,morning,bored,4,veg,chilling,Samosa,7
+15,afternoon,sad,3,veg,studying,Chocolate Bar,2
+14,afternoon,lazy,5,veg,chilling,Samosa,7
+18,evening,lazy,5,veg,none,Paneer Sandwich,3
+11,morning,energetic,2,veg,gym,Fruit Salad,5
+12,afternoon,lazy,3,veg,none,Paneer Sandwich,3
+11,morning,sad,4,veg,chilling,Samosa,7
+13,afternoon,sad,4,non-veg,chilling,Samosa,7
+17,evening,happy,2,non-veg,studying,Almonds & Raisins,9
+14,afternoon,sad,4,veg,studying,Samosa,7
+18,evening,sad,3,veg,chilling,Samosa,7
+11,morning,happy,3,veg,studying,Almonds & Raisins,9
+23,night,bored,3,veg,none,Nachos with Salsa,8
+17,evening,bored,1,veg,gaming,Nachos with Salsa,8
+19,evening,energetic,3,veg,chilling,Masala Popcorn,1
+19,evening,bored,5,non-veg,chilling,Samosa,7
+12,afternoon,bored,5,veg,chilling,Samosa,7
+22,night,lazy,2,veg,gaming,Nachos with Salsa,8
+14,afternoon,sad,5,veg,gym,Samosa,7
+13,afternoon,happy,5,veg,chilling,Samosa,7
+9,morning,bored,2,veg,studying,Masala Popcorn,1
+14,afternoon,happy,3,veg,gym,Fruit Salad,5
+15,afternoon,happy,3,veg,gaming,Protein Shake,6
+13,afternoon,lazy,5,veg,chilling,Samosa,7
+15,afternoon,bored,2,veg,chilling,Nachos with Salsa,8
+18,evening,bored,4,non-veg,chilling,Samosa,7
+7,morning,stressed,1,non-veg,chilling,Ice Cream Cup,12
+14,afternoon,energetic,5,veg,chilling,Samosa,7
+23,night,lazy,1,veg,studying,Nachos with Salsa,8
+18,evening,bored,4,non-veg,gym,Chocolate Bar,2
+18,evening,energetic,1,veg,gaming,Almonds & Raisins,9
+7,morning,energetic,4,veg,chilling,Samosa,7
+7,morning,energetic,2,veg,gaming,Almonds & Raisins,9
+12,afternoon,stressed,5,non-veg,chilling,Ice Cream Cup,12
+9,morning,energetic,1,non-veg,studying,Protein Shake,6
+11,morning,happy,3,veg,gaming,Protein Shake,6
+19,evening,stressed,3,non-veg,gym,Fruit Salad,5
+9,morning,happy,3,veg,gaming,Protein Shake,6
+7,morning,happy,3,veg,gym,Protein Shake,6
+9,morning,stressed,2,non-veg,studying,Chocolate Bar,2
+18,evening,lazy,2,non-veg,studying,Nachos with Salsa,8
+22,night,stressed,2,veg,chilling,Masala Popcorn,1
+16,afternoon,energetic,4,non-veg,gym,Fruit Salad,5
+12,afternoon,bored,4,veg,studying,Instant Noodles,10
+23,night,lazy,3,non-veg,chilling,Masala Popcorn,1
+16,afternoon,sad,4,non-veg,studying,Samosa,7
+16,afternoon,bored,3,veg,none,Samosa,7
+20,evening,bored,5,veg,chilling,Samosa,7
+18,evening,happy,2,non-veg,chilling,Nachos with Salsa,8
+11,morning,bored,2,veg,gaming,Chocolate Bar,2
+9,morning,bored,3,veg,chilling,Samosa,7
+18,evening,sad,2,non-veg,none,Masala Popcorn,1
+19,evening,energetic,5,non-veg,chilling,Samosa,7
+16,afternoon,sad,2,veg,none,Protein Shake,6
+23,night,sad,1,veg,gaming,Nachos with Salsa,8
+21,night,happy,4,veg,studying,Fruit Salad,5
+15,afternoon,stressed,2,veg,none,Masala Popcorn,1
+12,afternoon,sad,4,veg,studying,Samosa,7
+12,afternoon,stressed,4,non-veg,none,Grilled Fish,11
+19,evening,sad,1,veg,gaming,Ice Cream Cup,12
+17,evening,happy,1,veg,studying,Almonds & Raisins,9
+8,morning,happy,3,non-veg,gaming,Almonds & Raisins,9
+20,evening,lazy,1,veg,chilling,Masala Popcorn,1
+10,morning,energetic,4,non-veg,studying,Protein Shake,6
+18,evening,happy,2,veg,none,Protein Shake,6
+19,evening,sad,3,veg,studying,Chocolate Bar,2
+20,evening,energetic,4,veg,gaming,Instant Noodles,10
+16,afternoon,energetic,2,veg,studying,Protein Shake,6
+19,evening,stressed,4,non-veg,gym,Samosa,7
+22,night,sad,4,non-veg,chilling,Samosa,7
+7,morning,lazy,2,veg,chilling,Chocolate Bar,2
+7,morning,bored,1,veg,none,Ice Cream Cup,12
+16,afternoon,lazy,3,veg,chilling,Samosa,7
+17,evening,bored,3,non-veg,chilling,Masala Popcorn,1
+10,morning,lazy,2,veg,gaming,Almonds & Raisins,9
+22,night,bored,3,non-veg,chilling,Nachos with Salsa,8
+9,morning,bored,1,non-veg,gaming,Almonds & Raisins,9
+17,evening,lazy,2,veg,chilling,Masala Popcorn,1
+20,evening,bored,5,non-veg,chilling,Samosa,7
+7,morning,bored,1,veg,gaming,Almonds & Raisins,9
+10,morning,stressed,2,veg,none,Chocolate Bar,2
+11,morning,bored,3,non-veg,gaming,Instant Noodles,10
+13,afternoon,lazy,4,non-veg,gaming,Instant Noodles,10
+7,morning,stressed,1,veg,chilling,Ice Cream Cup,12
+18,evening,bored,1,veg,studying,Masala Popcorn,1
+11,morning,energetic,2,non-veg,none,Fruit Salad,5
+13,afternoon,happy,5,veg,chilling,Samosa,7
+12,afternoon,energetic,5,non-veg,studying,Instant Noodles,10
+13,afternoon,sad,5,veg,chilling,Samosa,7
+16,afternoon,lazy,4,veg,chilling,Samosa,7
+19,evening,happy,5,non-veg,chilling,Samosa,7
+11,morning,sad,5,non-veg,gaming,Samosa,7
+17,evening,lazy,2,veg,chilling,Ice Cream Cup,12
+16,afternoon,sad,1,non-veg,chilling,Chocolate Bar,2
+19,evening,bored,2,non-veg,studying,Nachos with Salsa,8
+9,morning,bored,2,veg,gaming,Samosa,7
+8,morning,bored,2,non-veg,gaming,Almonds & Raisins,9
+17,evening,bored,1,veg,gaming,Nachos with Salsa,8
+19,evening,happy,5,veg,chilling,Paneer Sandwich,3
+7,morning,lazy,3,veg,chilling,Chocolate Bar,2
+7,morning,sad,1,veg,gaming,Ice Cream Cup,12
+15,afternoon,stressed,3,non-veg,gym,Almonds & Raisins,9
+18,evening,sad,4,veg,gaming,Samosa,7
+14,afternoon,stressed,4,non-veg,gaming,Samosa,7
+11,morning,bored,1,non-veg,chilling,Ice Cream Cup,12
+17,evening,stressed,3,non-veg,chilling,Nachos with Salsa,8
+18,evening,stressed,3,veg,studying,Masala Popcorn,1
+12,afternoon,happy,4,veg,chilling,Samosa,7
+22,night,bored,1,veg,gaming,Nachos with Salsa,8
+20,evening,sad,5,veg,gaming,Samosa,7
+10,morning,bored,3,non-veg,gym,Protein Shake,6
+15,afternoon,lazy,1,non-veg,chilling,Ice Cream Cup,12
+18,evening,stressed,3,non-veg,chilling,Chocolate Bar,2
+20,evening,stressed,1,veg,studying,Masala Popcorn,1
+15,afternoon,bored,1,non-veg,none,Masala Popcorn,1
+22,night,lazy,1,non-veg,gym,Almonds & Raisins,9
+10,morning,lazy,2,non-veg,none,Chocolate Bar,2
+7,morning,stressed,3,veg,none,Ice Cream Cup,12
+23,night,energetic,5,non-veg,gaming,Samosa,7
+16,afternoon,stressed,4,non-veg,none,Samosa,7
+18,evening,happy,5,non-veg,gaming,Ice Cream Cup,12
+9,morning,happy,4,veg,none,Paneer Sandwich,3
+9,morning,stressed,1,veg,gym,Fruit Salad,5
+19,evening,lazy,3,non-veg,studying,Nachos with Salsa,8
+19,evening,happy,4,veg,gaming,Instant Noodles,10
+10,morning,bored,3,veg,studying,Masala Popcorn,1
+17,evening,stressed,2,non-veg,chilling,Chocolate Bar,2
+12,afternoon,energetic,5,veg,chilling,Samosa,7
+15,afternoon,lazy,1,non-veg,studying,Protein Shake,6
+19,evening,sad,5,non-veg,chilling,Samosa,7
+12,afternoon,happy,3,non-veg,chilling,Samosa,7
+9,morning,stressed,3,veg,chilling,Samosa,7
+13,afternoon,bored,2,non-veg,studying,Masala Popcorn,1
+16,afternoon,stressed,1,non-veg,chilling,Masala Popcorn,1
+17,evening,stressed,4,veg,gaming,Samosa,7
+23,night,energetic,1,non-veg,gaming,Almonds & Raisins,9
+11,morning,sad,2,veg,chilling,Chocolate Bar,2
+8,morning,happy,2,veg,studying,Protein Shake,6
+23,night,stressed,2,veg,gaming,Nachos with Salsa,8
+12,afternoon,stressed,3,non-veg,gaming,Ice Cream Cup,12
+19,evening,stressed,3,non-veg,chilling,Masala Popcorn,1
+11,morning,happy,3,veg,none,Protein Shake,6
+15,afternoon,happy,2,veg,chilling,Masala Popcorn,1
+21,night,happy,3,non-veg,gaming,Protein Shake,6
+7,morning,energetic,2,veg,studying,Protein Shake,6
+19,evening,lazy,5,veg,gym,Fruit Salad,5
+15,afternoon,bored,3,veg,chilling,Samosa,7
+8,morning,bored,2,veg,none,Masala Popcorn,1
+7,morning,sad,4,non-veg,gaming,Samosa,7
+17,evening,stressed,4,veg,chilling,Samosa,7
+14,afternoon,happy,4,veg,studying,Instant Noodles,10
+19,evening,bored,4,non-veg,gym,Paneer Sandwich,3
+9,morning,happy,2,veg,chilling,Chocolate Bar,2
+7,morning,lazy,2,veg,chilling,Ice Cream Cup,12
+8,morning,happy,4,veg,chilling,Instant Noodles,10
+13,afternoon,happy,4,veg,none,Instant Noodles,10
+16,afternoon,stressed,4,non-veg,studying,Samosa,7
+13,afternoon,bored,3,veg,chilling,Samosa,7
+11,morning,stressed,3,veg,chilling,Samosa,7
+10,morning,stressed,3,veg,none,Ice Cream Cup,12
+17,evening,happy,3,non-veg,gaming,Almonds & Raisins,9
+15,afternoon,energetic,3,veg,gym,Almonds & Raisins,9
+23,night,bored,3,non-veg,none,Nachos with Salsa,8
+23,night,bored,2,veg,none,Nachos with Salsa,8
+10,morning,happy,1,non-veg,gym,Almonds & Raisins,9
+23,night,energetic,1,veg,chilling,Nachos with Salsa,8
+23,night,sad,1,non-veg,studying,Masala Popcorn,1
+19,evening,bored,4,veg,chilling,Samosa,7
+10,morning,happy,2,non-veg,gaming,Almonds & Raisins,9
+10,morning,lazy,3,non-veg,none,Almonds & Raisins,9
+9,morning,energetic,2,veg,gaming,Masala Popcorn,1
+7,morning,stressed,2,non-veg,gaming,Chocolate Bar,2
+17,evening,lazy,3,veg,studying,Ice Cream Cup,12
+13,afternoon,bored,5,veg,gym,Samosa,7
+16,afternoon,bored,3,non-veg,none,Chicken Wrap,4
+23,night,stressed,3,veg,chilling,Masala Popcorn,1
+15,afternoon,stressed,3,veg,gaming,Samosa,7
+19,evening,lazy,3,veg,studying,Nachos with Salsa,8
+11,morning,bored,2,non-veg,gaming,Almonds & Raisins,9
+21,night,stressed,5,non-veg,chilling,Samosa,7
+17,evening,stressed,1,veg,studying,Masala Popcorn,1
+7,morning,energetic,2,non-veg,studying,Protein Shake,6
+22,night,happy,3,non-veg,studying,Almonds & Raisins,9
+14,afternoon,energetic,3,non-veg,none,Instant Noodles,10
+9,morning,stressed,4,veg,chilling,Paneer Sandwich,3
+13,afternoon,energetic,4,veg,none,Paneer Sandwich,3
+8,morning,happy,2,non-veg,gaming,Almonds & Raisins,9
+12,afternoon,energetic,4,veg,chilling,Samosa,7
+8,morning,bored,4,non-veg,studying,Ice Cream Cup,12
+23,night,happy,3,veg,none,Fruit Salad,5
+9,morning,energetic,4,non-veg,chilling,Samosa,7
+14,afternoon,energetic,3,non-veg,chilling,Samosa,7
+10,morning,bored,2,veg,none,Chocolate Bar,2
+7,morning,sad,3,veg,chilling,Ice Cream Cup,12
+13,afternoon,bored,5,non-veg,chilling,Samosa,7
+7,morning,bored,2,veg,studying,Chocolate Bar,2
+7,morning,bored,3,veg,chilling,Masala Popcorn,1
+19,evening,energetic,3,veg,gym,Fruit Salad,5
+23,night,bored,3,veg,chilling,Nachos with Salsa,8
+9,morning,stressed,3,non-veg,gym,Protein Shake,6
+14,afternoon,bored,1,non-veg,gaming,Nachos with Salsa,8
+14,afternoon,energetic,5,veg,none,Paneer Sandwich,3
+19,evening,bored,5,veg,studying,Samosa,7
+19,evening,happy,5,veg,chilling,Samosa,7
+23,night,sad,3,veg,chilling,Masala Popcorn,1
+14,afternoon,lazy,4,non-veg,none,Chicken Wrap,4
+22,night,bored,1,veg,chilling,Masala Popcorn,1
+16,afternoon,bored,1,veg,gaming,Nachos with Salsa,8
+18,evening,sad,4,veg,gym,Samosa,7
+14,afternoon,bored,2,veg,chilling,Nachos with Salsa,8
+10,morning,lazy,1,veg,chilling,Ice Cream Cup,12
+8,morning,happy,1,veg,gaming,Protein Shake,6
+13,afternoon,happy,4,veg,none,Paneer Sandwich,3
+8,morning,happy,1,non-veg,chilling,Protein Shake,6
+7,morning,happy,4,veg,studying,Protein Shake,6
+7,morning,bored,3,veg,chilling,Samosa,7
+8,morning,bored,1,veg,none,Ice Cream Cup,12
+8,morning,energetic,3,veg,chilling,Paneer Sandwich,3
+15,afternoon,lazy,4,veg,none,Paneer Sandwich,3
+8,morning,stressed,2,veg,gym,Almonds & Raisins,9
+20,evening,happy,5,veg,chilling,Samosa,7
+22,night,energetic,1,veg,chilling,Masala Popcorn,1
+19,evening,bored,3,veg,none,Instant Noodles,10
+14,afternoon,stressed,4,non-veg,chilling,Samosa,7
+11,morning,energetic,3,veg,gym,Fruit Salad,5
+10,morning,bored,1,non-veg,none,Fruit Salad,5
+8,morning,energetic,3,non-veg,gaming,Almonds & Raisins,9
+19,evening,happy,4,veg,chilling,Samosa,7
+18,evening,stressed,3,veg,studying,Chocolate Bar,2
+10,morning,energetic,2,non-veg,studying,Almonds & Raisins,9
+21,night,stressed,4,non-veg,chilling,Samosa,7
+17,evening,lazy,2,non-veg,studying,Nachos with Salsa,8
+14,afternoon,happy,4,veg,chilling,Samosa,7
+12,afternoon,energetic,4,veg,chilling,Samosa,7
+10,morning,lazy,4,veg,none,Masala Popcorn,1
+18,evening,lazy,2,non-veg,none,Chocolate Bar,2
+8,morning,stressed,1,non-veg,gaming,Chocolate Bar,2
+23,night,energetic,2,veg,chilling,Nachos with Salsa,8
+15,afternoon,bored,2,veg,studying,Masala Popcorn,1
+11,morning,stressed,4,non-veg,none,Samosa,7
+13,afternoon,bored,3,veg,none,Instant Noodles,10
+14,afternoon,stressed,4,veg,none,Samosa,7
+14,afternoon,sad,5,veg,none,Samosa,7
+20,evening,happy,5,non-veg,none,Paneer Sandwich,3
+13,afternoon,bored,5,veg,studying,Paneer Sandwich,3
+15,afternoon,happy,1,veg,none,Almonds & Raisins,9
+15,afternoon,sad,3,non-veg,studying,Chocolate Bar,2
+15,afternoon,sad,3,veg,none,Samosa,7
+13,afternoon,bored,3,non-veg,studying,Nachos with Salsa,8
+22,night,stressed,1,veg,chilling,Nachos with Salsa,8
+9,morning,energetic,3,veg,gaming,Almonds & Raisins,9
+11,morning,lazy,2,non-veg,gaming,Ice Cream Cup,12
+14,afternoon,stressed,4,non-veg,none,Samosa,7
+8,morning,lazy,3,veg,chilling,Chocolate Bar,2
+17,evening,stressed,3,veg,gym,Almonds & Raisins,9
+14,afternoon,bored,3,veg,chilling,Samosa,7
+14,afternoon,happy,5,veg,chilling,Samosa,7
+12,afternoon,happy,5,veg,chilling,Samosa,7
+23,night,happy,1,veg,gym,Fruit Salad,5
+7,morning,bored,4,non-veg,none,Samosa,7
+7,morning,energetic,3,veg,chilling,Ice Cream Cup,12
+10,morning,stressed,3,veg,chilling,Ice Cream Cup,12
+12,afternoon,lazy,2,veg,chilling,Nachos with Salsa,8
+23,night,energetic,3,veg,studying,Protein Shake,6
+13,afternoon,happy,3,veg,chilling,Samosa,7
+16,afternoon,lazy,2,veg,studying,Protein Shake,6
+23,night,lazy,3,veg,gaming,Nachos with Salsa,8
+14,afternoon,lazy,5,veg,chilling,Nachos with Salsa,8
+12,afternoon,happy,3,veg,none,Samosa,7
+14,afternoon,stressed,4,veg,gaming,Samosa,7
+7,morning,bored,1,non-veg,studying,Ice Cream Cup,12
+21,night,bored,5,non-veg,studying,Chicken Wrap,4
+10,morning,bored,4,veg,none,Instant Noodles,10
+22,night,bored,5,veg,none,Samosa,7
+8,morning,bored,1,veg,studying,Protein Shake,6
+12,afternoon,happy,4,veg,gaming,Instant Noodles,10
+18,evening,happy,1,veg,gym,Protein Shake,6
+9,morning,happy,2,veg,gaming,Protein Shake,6
+12,afternoon,happy,5,non-veg,studying,Instant Noodles,10
+13,afternoon,lazy,4,veg,none,Paneer Sandwich,3
+18,evening,energetic,1,veg,none,Protein Shake,6
+8,morning,happy,2,non-veg,gym,Almonds & Raisins,9
+18,evening,happy,4,veg,gaming,Samosa,7
+8,morning,stressed,5,veg,studying,Ice Cream Cup,12
+23,night,happy,2,veg,chilling,Nachos with Salsa,8
+21,night,bored,5,veg,chilling,Samosa,7
+16,afternoon,bored,4,veg,chilling,Samosa,7
+10,morning,bored,4,non-veg,gym,Protein Shake,6
+17,evening,energetic,1,non-veg,chilling,Masala Popcorn,1
+12,afternoon,happy,4,veg,none,Masala Popcorn,1
+19,evening,bored,1,veg,gaming,Samosa,7
+10,morning,stressed,3,non-veg,chilling,Chocolate Bar,2
+23,night,energetic,3,veg,gym,Fruit Salad,5
+10,morning,sad,2,veg,gaming,Ice Cream Cup,12
+9,morning,energetic,1,veg,studying,Protein Shake,6
+15,afternoon,happy,3,veg,gym,Nachos with Salsa,8
+18,evening,happy,5,veg,chilling,Samosa,7
+19,evening,lazy,5,veg,none,Instant Noodles,10
+10,morning,stressed,1,veg,none,Paneer Sandwich,3
+19,evening,energetic,4,veg,gaming,Instant Noodles,10
+19,evening,bored,5,veg,none,Samosa,7
+22,night,bored,1,veg,chilling,Masala Popcorn,1
+20,evening,energetic,4,veg,chilling,Samosa,7
+16,afternoon,bored,3,veg,studying,Masala Popcorn,1
+9,morning,lazy,2,veg,gaming,Chocolate Bar,2
+9,morning,happy,3,non-veg,none,Protein Shake,6
+18,evening,energetic,3,veg,chilling,Ice Cream Cup,12
+16,afternoon,bored,1,veg,none,Nachos with Salsa,8
+7,morning,stressed,4,non-veg,none,Samosa,7
+15,afternoon,stressed,2,non-veg,none,Masala Popcorn,1
+11,morning,energetic,2,veg,chilling,Almonds & Raisins,9
+12,afternoon,happy,4,non-veg,chilling,Samosa,7
+22,night,sad,3,veg,chilling,Nachos with Salsa,8
+23,night,stressed,1,non-veg,gaming,Masala Popcorn,1
+21,night,bored,2,non-veg,chilling,Chocolate Bar,2
+18,evening,happy,2,non-veg,gaming,Protein Shake,6
+13,afternoon,lazy,5,veg,none,Samosa,7
+10,morning,bored,4,non-veg,gaming,Instant Noodles,10
+20,evening,sad,5,veg,gaming,Samosa,7
+7,morning,sad,1,veg,none,Ice Cream Cup,12
+12,afternoon,stressed,3,veg,none,Samosa,7
+21,night,lazy,4,non-veg,chilling,Samosa,7
+17,evening,bored,2,non-veg,studying,Chicken Wrap,4
+8,morning,bored,4,veg,studying,Paneer Sandwich,3
+8,morning,happy,3,veg,chilling,Fruit Salad,5
+18,evening,stressed,4,non-veg,studying,Samosa,7
+8,morning,happy,4,non-veg,chilling,Samosa,7
+23,night,lazy,1,veg,studying,Masala Popcorn,1
+21,night,lazy,2,non-veg,gaming,Masala Popcorn,1
+16,afternoon,lazy,4,veg,chilling,Samosa,7
+12,afternoon,happy,4,veg,none,Samosa,7
+16,afternoon,stressed,2,veg,gaming,Masala Popcorn,1
+18,evening,happy,3,non-veg,gym,Protein Shake,6
+14,afternoon,bored,4,veg,gym,Paneer Sandwich,3
+9,morning,sad,2,non-veg,none,Chocolate Bar,2
+9,morning,happy,2,veg,studying,Chocolate Bar,2
+19,evening,energetic,3,veg,none,Fruit Salad,5
+9,morning,happy,2,veg,none,Fruit Salad,5
+13,afternoon,stressed,4,non-veg,chilling,Samosa,7
+8,morning,happy,3,non-veg,gaming,Almonds & Raisins,9
+19,evening,energetic,4,non-veg,chilling,Samosa,7
+22,night,energetic,2,veg,none,Protein Shake,6
+13,afternoon,sad,4,veg,gaming,Samosa,7
+7,morning,energetic,3,veg,none,Fruit Salad,5
+10,morning,happy,2,veg,gym,Almonds & Raisins,9
+23,night,happy,2,veg,none,Almonds & Raisins,9
+13,afternoon,happy,5,non-veg,chilling,Samosa,7
+12,afternoon,stressed,4,veg,none,Samosa,7
+11,morning,happy,1,veg,none,Fruit Salad,5
+17,evening,stressed,2,veg,none,Chocolate Bar,2
+18,evening,energetic,3,non-veg,gym,Almonds & Raisins,9
+17,evening,bored,3,veg,gaming,Masala Popcorn,1
+10,morning,lazy,4,veg,chilling,Samosa,7
+8,morning,stressed,3,veg,gym,Fruit Salad,5
+7,morning,happy,3,non-veg,none,Protein Shake,6
+19,evening,stressed,3,veg,studying,Masala Popcorn,1
+23,night,lazy,3,veg,none,Masala Popcorn,1
+14,afternoon,stressed,4,veg,none,Samosa,7
+8,morning,bored,1,veg,studying,Almonds & Raisins,9
+9,morning,stressed,2,veg,gaming,Ice Cream Cup,12
+13,afternoon,lazy,2,veg,chilling,Chocolate Bar,2
+14,afternoon,stressed,4,non-veg,gaming,Samosa,7
+13,afternoon,stressed,5,veg,gym,Samosa,7
+10,morning,energetic,5,veg,gym,Protein Shake,6
+21,night,happy,4,veg,gaming,Samosa,7
+11,morning,bored,2,non-veg,gaming,Ice Cream Cup,12
+14,afternoon,happy,5,non-veg,gaming,Instant Noodles,10
+9,morning,sad,4,veg,gaming,Samosa,7
+22,night,stressed,2,veg,none,Masala Popcorn,1
+21,night,stressed,5,veg,chilling,Samosa,7
+9,morning,sad,2,veg,chilling,Ice Cream Cup,12
+13,afternoon,stressed,4,non-veg,studying,Samosa,7
+14,afternoon,stressed,4,non-veg,studying,Samosa,7
+17,evening,energetic,4,non-veg,none,Grilled Fish,11
+10,morning,happy,3,non-veg,gaming,Protein Shake,6
+14,afternoon,sad,2,veg,none,Chocolate Bar,2
+8,morning,happy,4,veg,none,Fruit Salad,5
+11,morning,lazy,2,veg,chilling,Chocolate Bar,2
+18,evening,sad,3,veg,chilling,Nachos with Salsa,8
+16,afternoon,happy,2,veg,studying,Almonds & Raisins,9
+17,evening,bored,4,veg,chilling,Instant Noodles,10
+17,evening,energetic,1,veg,studying,Protein Shake,6
+12,afternoon,stressed,4,non-veg,none,Samosa,7
+14,afternoon,energetic,4,non-veg,studying,Ice Cream Cup,12
+20,evening,lazy,3,non-veg,chilling,Samosa,7
+15,afternoon,energetic,4,non-veg,chilling,Samosa,7
+13,afternoon,energetic,4,non-veg,gym,Fruit Salad,5
+8,morning,lazy,1,veg,chilling,Ice Cream Cup,12
+9,morning,sad,2,veg,studying,Chocolate Bar,2
+16,afternoon,lazy,3,veg,chilling,Samosa,7
+15,afternoon,happy,1,veg,chilling,Almonds & Raisins,9
+18,evening,happy,2,veg,chilling,Almonds & Raisins,9
+23,night,happy,4,veg,gym,Almonds & Raisins,9
+8,morning,sad,1,veg,none,Ice Cream Cup,12
+18,evening,stressed,3,non-veg,chilling,Chocolate Bar,2
+13,afternoon,energetic,5,veg,studying,Samosa,7
+21,night,bored,5,veg,studying,Fruit Salad,5
+19,evening,happy,4,non-veg,gym,Protein Shake,6
+12,afternoon,lazy,2,veg,chilling,Chocolate Bar,2
+15,afternoon,stressed,4,non-veg,studying,Samosa,7
+15,afternoon,stressed,3,non-veg,chilling,Samosa,7
+12,afternoon,stressed,4,veg,chilling,Samosa,7
+21,night,energetic,3,non-veg,none,Fruit Salad,5
+15,afternoon,happy,3,non-veg,chilling,Samosa,7
+20,evening,happy,2,non-veg,chilling,Almonds & Raisins,9
+10,morning,lazy,3,veg,studying,Almonds & Raisins,9
+18,evening,stressed,1,non-veg,none,Chocolate Bar,2
+11,morning,happy,1,non-veg,gaming,Protein Shake,6
+14,afternoon,bored,3,non-veg,none,Samosa,7
+20,evening,happy,1,non-veg,studying,Protein Shake,6
+8,morning,bored,1,veg,chilling,Masala Popcorn,1
+10,morning,happy,2,veg,studying,Almonds & Raisins,9
+10,morning,lazy,3,veg,studying,Protein Shake,6
+21,night,bored,4,veg,chilling,Samosa,7
+18,evening,sad,1,veg,none,Paneer Sandwich,3
+10,morning,sad,1,veg,gym,Nachos with Salsa,8
+9,morning,stressed,3,non-veg,chilling,Chocolate Bar,2
+11,morning,lazy,1,veg,gaming,Almonds & Raisins,9
+7,morning,stressed,2,veg,studying,Ice Cream Cup,12
+16,afternoon,bored,2,non-veg,gaming,Nachos with Salsa,8
+22,night,happy,2,non-veg,studying,Protein Shake,6
+21,night,energetic,4,non-veg,none,Ice Cream Cup,12
+7,morning,lazy,2,non-veg,chilling,Ice Cream Cup,12
+15,afternoon,bored,2,veg,gaming,Masala Popcorn,1
+17,evening,lazy,3,veg,none,Masala Popcorn,1
+14,afternoon,stressed,4,veg,studying,Samosa,7
+15,afternoon,energetic,3,veg,none,Protein Shake,6
+8,morning,energetic,4,non-veg,studying,Protein Shake,6
+22,night,energetic,2,non-veg,chilling,Samosa,7
+15,afternoon,energetic,2,veg,none,Protein Shake,6
+9,morning,stressed,2,veg,gym,Almonds & Raisins,9
+23,night,energetic,2,veg,studying,Almonds & Raisins,9
+9,morning,stressed,1,non-veg,gaming,Chocolate Bar,2
+7,morning,sad,1,non-veg,gaming,Ice Cream Cup,12
+13,afternoon,sad,5,veg,gaming,Samosa,7
+22,night,happy,4,non-veg,chilling,Samosa,7
+16,afternoon,happy,3,veg,gaming,Samosa,7
+19,evening,bored,4,veg,gaming,Instant Noodles,10
+15,afternoon,energetic,1,veg,gym,Protein Shake,6
+12,afternoon,bored,2,veg,chilling,Nachos with Salsa,8
+9,morning,bored,3,non-veg,gym,Almonds & Raisins,9
+9,morning,sad,2,veg,studying,Paneer Sandwich,3
+17,evening,lazy,1,veg,gaming,Almonds & Raisins,9
+16,afternoon,happy,1,non-veg,gym,Almonds & Raisins,9
+19,evening,bored,4,non-veg,chilling,Samosa,7
+16,afternoon,stressed,2,veg,studying,Ice Cream Cup,12
+8,morning,stressed,2,veg,chilling,Chocolate Bar,2
+14,afternoon,happy,5,veg,chilling,Samosa,7
+18,evening,stressed,3,non-veg,gaming,Masala Popcorn,1
+9,morning,sad,2,veg,chilling,Chocolate Bar,2
+13,afternoon,bored,4,non-veg,none,Paneer Sandwich,3
+12,afternoon,sad,3,veg,gaming,Samosa,7
+20,evening,bored,4,non-veg,chilling,Protein Shake,6
+16,afternoon,lazy,4,non-veg,studying,Chicken Wrap,4
+12,afternoon,lazy,4,non-veg,gaming,Samosa,7
+14,afternoon,energetic,4,non-veg,chilling,Ice Cream Cup,12
+8,morning,bored,1,veg,none,Fruit Salad,5
+16,afternoon,energetic,1,non-veg,gaming,Chocolate Bar,2
+23,night,stressed,1,non-veg,gaming,Masala Popcorn,1
+9,morning,bored,1,veg,chilling,Masala Popcorn,1
+12,afternoon,happy,3,veg,gym,Fruit Salad,5
+23,night,stressed,1,veg,chilling,Masala Popcorn,1
+10,morning,sad,1,veg,none,Chocolate Bar,2
+23,night,energetic,2,veg,chilling,Fruit Salad,5
+23,night,happy,2,veg,gaming,Protein Shake,6
+17,evening,bored,3,veg,gaming,Masala Popcorn,1
+15,afternoon,stressed,3,veg,studying,Nachos with Salsa,8
+12,afternoon,bored,4,non-veg,gaming,Instant Noodles,10
+15,afternoon,energetic,2,non-veg,chilling,Almonds & Raisins,9
+17,evening,happy,5,veg,chilling,Samosa,7
+12,afternoon,energetic,4,veg,chilling,Samosa,7
+13,afternoon,lazy,5,veg,none,Samosa,7
+16,afternoon,bored,2,veg,gaming,Masala Popcorn,1
+19,evening,bored,4,veg,chilling,Samosa,7
+8,morning,lazy,3,non-veg,studying,Almonds & Raisins,9
+17,evening,stressed,3,non-veg,chilling,Nachos with Salsa,8
+8,morning,lazy,4,veg,gaming,Samosa,7
+7,morning,sad,1,veg,none,Chocolate Bar,2
+12,afternoon,bored,4,veg,gaming,Instant Noodles,10
+10,morning,sad,1,veg,studying,Ice Cream Cup,12
+20,evening,bored,5,veg,gaming,Ice Cream Cup,12
+20,evening,energetic,4,veg,none,Instant Noodles,10
+19,evening,energetic,4,veg,chilling,Samosa,7
+21,night,bored,5,veg,gaming,Samosa,7
+7,morning,happy,3,veg,none,Protein Shake,6
+16,afternoon,sad,4,veg,studying,Samosa,7
+22,night,bored,2,veg,gaming,Masala Popcorn,1
+15,afternoon,stressed,3,non-veg,none,Protein Shake,6
+19,evening,energetic,5,veg,gaming,Instant Noodles,10
+14,afternoon,stressed,2,veg,none,Ice Cream Cup,12
+8,morning,happy,2,veg,studying,Protein Shake,6
+13,afternoon,happy,5,non-veg,gaming,Samosa,7
+21,night,stressed,2,non-veg,chilling,Masala Popcorn,1
+18,evening,lazy,1,veg,none,Chocolate Bar,2
+8,morning,stressed,2,veg,gaming,Chocolate Bar,2
+12,afternoon,happy,5,veg,none,Instant Noodles,10
+16,afternoon,happy,4,veg,gym,Fruit Salad,5
+7,morning,bored,2,veg,gaming,Almonds & Raisins,9
+12,afternoon,happy,4,non-veg,gaming,Chicken Wrap,4
+11,morning,energetic,3,veg,chilling,Chocolate Bar,2
+22,night,bored,3,veg,gym,Ice Cream Cup,12
+8,morning,lazy,1,veg,chilling,Ice Cream Cup,12
+20,evening,stressed,4,non-veg,studying,Protein Shake,6
+15,afternoon,energetic,4,veg,studying,Paneer Sandwich,3
+18,evening,happy,2,veg,gaming,Samosa,7
+21,night,sad,4,non-veg,studying,Protein Shake,6
+18,evening,lazy,4,veg,studying,Samosa,7
+14,afternoon,stressed,3,veg,chilling,Samosa,7
+22,night,stressed,2,veg,chilling,Masala Popcorn,1
+7,morning,happy,3,veg,gaming,Almonds & Raisins,9
+8,morning,stressed,2,veg,chilling,Ice Cream Cup,12
+12,afternoon,bored,3,veg,chilling,Samosa,7
+10,morning,stressed,1,non-veg,studying,Instant Noodles,10
+13,afternoon,happy,5,veg,chilling,Samosa,7
+8,morning,stressed,3,veg,none,Chocolate Bar,2
+14,afternoon,happy,4,veg,none,Samosa,7
+9,morning,bored,3,veg,studying,Chocolate Bar,2
+22,night,stressed,4,veg,chilling,Samosa,7
+19,evening,lazy,5,veg,none,Instant Noodles,10
+11,morning,stressed,2,veg,chilling,Masala Popcorn,1
+15,afternoon,lazy,3,veg,chilling,Samosa,7
+19,evening,bored,2,veg,studying,Masala Popcorn,1
+18,evening,sad,4,non-veg,chilling,Samosa,7
+12,afternoon,bored,4,veg,gaming,Instant Noodles,10
+7,morning,lazy,1,veg,none,Protein Shake,6
+15,afternoon,stressed,2,veg,studying,Chocolate Bar,2
+10,morning,stressed,1,veg,gaming,Ice Cream Cup,12
+19,evening,stressed,5,non-veg,studying,Samosa,7
+7,morning,energetic,3,veg,gym,Samosa,7
+12,afternoon,lazy,5,veg,studying,Samosa,7
+16,afternoon,happy,2,veg,gaming,Almonds & Raisins,9
+15,afternoon,energetic,3,non-veg,chilling,Samosa,7
+23,night,energetic,1,veg,none,Almonds & Raisins,9
+17,evening,sad,2,veg,gaming,Masala Popcorn,1
+18,evening,energetic,3,non-veg,chilling,Chocolate Bar,2
+7,morning,happy,2,veg,studying,Protein Shake,6
+22,night,lazy,3,non-veg,studying,Masala Popcorn,1
+18,evening,bored,3,veg,none,Paneer Sandwich,3
+14,afternoon,lazy,5,veg,gaming,Instant Noodles,10
+17,evening,sad,3,non-veg,chilling,Chocolate Bar,2
+10,morning,lazy,4,veg,gaming,Samosa,7
+13,afternoon,stressed,3,veg,gym,Samosa,7
+21,night,bored,1,non-veg,chilling,Masala Popcorn,1
+13,afternoon,energetic,4,veg,studying,Paneer Sandwich,3
+17,evening,lazy,3,veg,studying,Ice Cream Cup,12
+21,night,bored,4,veg,none,Samosa,7
+11,morning,bored,3,veg,none,Protein Shake,6
+21,night,stressed,5,veg,studying,Nachos with Salsa,8
+23,night,stressed,4,veg,gym,Samosa,7
+7,morning,happy,2,non-veg,gaming,Almonds & Raisins,9
+18,evening,sad,1,veg,chilling,Chocolate Bar,2
+16,afternoon,happy,2,veg,studying,Instant Noodles,10
+14,afternoon,happy,3,veg,chilling,Samosa,7
+12,afternoon,bored,5,veg,studying,Paneer Sandwich,3
+9,morning,happy,3,non-veg,studying,Almonds & Raisins,9
+18,evening,happy,4,veg,none,Samosa,7
+17,evening,stressed,3,veg,none,Masala Popcorn,1
+20,evening,lazy,3,veg,chilling,Masala Popcorn,1
+16,afternoon,stressed,3,non-veg,gaming,Samosa,7
+14,afternoon,stressed,4,veg,chilling,Samosa,7
+14,afternoon,bored,4,veg,gaming,Samosa,7
+18,evening,stressed,3,non-veg,none,Chocolate Bar,2
+22,night,lazy,4,veg,none,Samosa,7
+23,night,happy,4,veg,none,Samosa,7
+15,afternoon,sad,5,veg,chilling,Samosa,7
+15,afternoon,bored,1,veg,gaming,Masala Popcorn,1
+22,night,sad,3,non-veg,studying,Nachos with Salsa,8
+13,afternoon,bored,4,veg,none,Instant Noodles,10
+8,morning,stressed,4,non-veg,studying,Ice Cream Cup,12
+22,night,energetic,3,veg,gaming,Protein Shake,6
+15,afternoon,energetic,3,veg,gaming,Samosa,7
+12,afternoon,stressed,2,veg,studying,Chocolate Bar,2
+17,evening,bored,1,non-veg,gym,Fruit Salad,5
+16,afternoon,lazy,5,non-veg,studying,Instant Noodles,10
+9,morning,stressed,4,veg,studying,Ice Cream Cup,12
+12,afternoon,sad,4,veg,gaming,Samosa,7
+11,morning,stressed,2,veg,none,Ice Cream Cup,12
+14,afternoon,happy,4,non-veg,none,Paneer Sandwich,3
+11,morning,energetic,2,non-veg,chilling,Ice Cream Cup,12
+14,afternoon,bored,5,non-veg,gaming,Chicken Wrap,4
+13,afternoon,sad,3,veg,chilling,Samosa,7
+8,morning,bored,3,veg,gaming,Almonds & Raisins,9
+9,morning,energetic,2,veg,none,Fruit Salad,5
+15,afternoon,sad,2,veg,gaming,Nachos with Salsa,8
+23,night,bored,2,veg,gaming,Masala Popcorn,1
+15,afternoon,sad,5,non-veg,chilling,Samosa,7
+12,afternoon,stressed,4,veg,chilling,Samosa,7
+7,morning,sad,3,veg,none,Chocolate Bar,2
+7,morning,stressed,3,non-veg,none,Ice Cream Cup,12
+8,morning,lazy,1,veg,gaming,Fruit Salad,5
+19,evening,stressed,3,veg,chilling,Masala Popcorn,1
+18,evening,bored,3,veg,none,Masala Popcorn,1
+18,evening,happy,1,non-veg,none,Almonds & Raisins,9
+13,afternoon,energetic,5,veg,gaming,Instant Noodles,10
+8,morning,bored,3,veg,chilling,Samosa,7
+21,night,stressed,4,veg,gaming,Samosa,7
+23,night,happy,2,non-veg,chilling,Nachos with Salsa,8
+12,afternoon,happy,3,non-veg,studying,Protein Shake,6
+11,morning,lazy,2,non-veg,none,Chocolate Bar,2
+19,evening,bored,3,veg,gaming,Instant Noodles,10
+11,morning,bored,2,non-veg,chilling,Chocolate Bar,2
+20,evening,happy,5,veg,gaming,Samosa,7
+20,evening,energetic,4,veg,none,Instant Noodles,10
+19,evening,bored,3,non-veg,none,Masala Popcorn,1
+14,afternoon,stressed,4,veg,none,Samosa,7
+9,morning,energetic,3,non-veg,chilling,Almonds & Raisins,9
+14,afternoon,stressed,5,veg,gaming,Protein Shake,6
+20,evening,bored,5,non-veg,studying,Paneer Sandwich,3
+13,afternoon,lazy,5,non-veg,gaming,Instant Noodles,10
+10,morning,happy,2,non-veg,none,Almonds & Raisins,9
+23,night,lazy,3,veg,gaming,Nachos with Salsa,8
+9,morning,energetic,1,non-veg,chilling,Almonds & Raisins,9
+22,night,bored,5,non-veg,chilling,Samosa,7
+19,evening,energetic,4,veg,gaming,Instant Noodles,10
+7,morning,stressed,1,veg,chilling,Ice Cream Cup,12
+8,morning,stressed,2,veg,gaming,Chocolate Bar,2
+20,evening,stressed,3,non-veg,gym,Fruit Salad,5
+9,morning,energetic,1,veg,gaming,Paneer Sandwich,3
+16,afternoon,bored,3,non-veg,chilling,Samosa,7
+16,afternoon,stressed,4,non-veg,chilling,Nachos with Salsa,8
+22,night,lazy,3,veg,none,Masala Popcorn,1
+14,afternoon,lazy,5,non-veg,studying,Chicken Wrap,4
+18,evening,bored,2,veg,gaming,Masala Popcorn,1
+20,evening,bored,3,veg,chilling,Masala Popcorn,1
+15,afternoon,happy,3,non-veg,none,Chicken Wrap,4
+7,morning,stressed,3,veg,gaming,Chocolate Bar,2
+21,night,stressed,4,veg,chilling,Nachos with Salsa,8
+14,afternoon,lazy,5,non-veg,chilling,Samosa,7
+19,evening,energetic,4,veg,chilling,Samosa,7
+15,afternoon,energetic,4,veg,chilling,Samosa,7
+10,morning,stressed,1,non-veg,gaming,Ice Cream Cup,12
+16,afternoon,stressed,3,non-veg,gaming,Samosa,7
+23,night,happy,1,veg,studying,Protein Shake,6
+10,morning,sad,1,veg,chilling,Chocolate Bar,2
+18,evening,bored,2,veg,none,Nachos with Salsa,8
+19,evening,sad,5,veg,gaming,Samosa,7
+22,night,stressed,2,non-veg,gym,Fruit Salad,5
+8,morning,energetic,3,veg,chilling,Ice Cream Cup,12
+8,morning,lazy,1,veg,none,Almonds & Raisins,9
+18,evening,sad,4,veg,studying,Samosa,7
+7,morning,bored,4,non-veg,chilling,Samosa,7
+13,afternoon,energetic,5,veg,chilling,Samosa,7
+20,evening,energetic,3,non-veg,chilling,Samosa,7
+17,evening,sad,4,veg,chilling,Samosa,7
+16,afternoon,energetic,4,non-veg,none,Instant Noodles,10
+17,evening,energetic,3,veg,studying,Almonds & Raisins,9
+22,night,stressed,3,veg,none,Nachos with Salsa,8
+8,morning,bored,3,veg,studying,Samosa,7
+14,afternoon,happy,5,veg,chilling,Samosa,7
+10,morning,bored,4,veg,chilling,Samosa,7
+17,evening,happy,2,veg,studying,Protein Shake,6
+17,evening,energetic,3,veg,gaming,Protein Shake,6
+12,afternoon,stressed,4,veg,gym,Samosa,7
+16,afternoon,stressed,4,veg,gym,Samosa,7
+15,afternoon,energetic,1,veg,gaming,Almonds & Raisins,9
+13,afternoon,lazy,2,non-veg,gaming,Ice Cream Cup,12
+20,evening,bored,5,veg,gym,Instant Noodles,10
+8,morning,energetic,2,veg,studying,Almonds & Raisins,9
+17,evening,bored,1,veg,none,Ice Cream Cup,12
+12,afternoon,stressed,4,veg,studying,Samosa,7
+19,evening,lazy,5,veg,none,Instant Noodles,10
+14,afternoon,energetic,4,non-veg,gym,Protein Shake,6
+12,afternoon,lazy,5,veg,chilling,Samosa,7
+13,afternoon,stressed,2,veg,chilling,Chocolate Bar,2
+11,morning,lazy,2,veg,none,Fruit Salad,5
+20,evening,energetic,4,veg,gaming,Instant Noodles,10
+22,night,lazy,2,non-veg,none,Masala Popcorn,1
+18,evening,happy,3,veg,gaming,Almonds & Raisins,9
+23,night,bored,1,non-veg,chilling,Masala Popcorn,1
+23,night,energetic,1,veg,none,Protein Shake,6
+17,evening,happy,3,veg,chilling,Fruit Salad,5
+16,afternoon,happy,2,veg,gym,Fruit Salad,5
+7,morning,sad,2,non-veg,none,Ice Cream Cup,12
+22,night,sad,2,veg,chilling,Chocolate Bar,2
+20,evening,stressed,2,veg,gym,Almonds & Raisins,9
+18,evening,bored,2,non-veg,gaming,Nachos with Salsa,8
+21,night,happy,4,veg,studying,Almonds & Raisins,9
+18,evening,happy,2,veg,gym,Protein Shake,6
+10,morning,happy,1,veg,chilling,Protein Shake,6
+14,afternoon,lazy,4,veg,chilling,Samosa,7
+8,morning,bored,2,veg,gaming,Ice Cream Cup,12
+7,morning,happy,3,veg,chilling,Almonds & Raisins,9
+18,evening,bored,2,veg,chilling,Samosa,7
+13,afternoon,stressed,2,non-veg,gym,Fruit Salad,5
+17,evening,energetic,5,veg,none,Samosa,7
+7,morning,stressed,3,veg,gaming,Chocolate Bar,2
+19,evening,bored,5,veg,studying,Paneer Sandwich,3
+10,morning,bored,1,veg,chilling,Masala Popcorn,1
+19,evening,sad,3,non-veg,gaming,Chocolate Bar,2
+17,evening,stressed,3,veg,none,Chocolate Bar,2
+10,morning,energetic,2,veg,gym,Protein Shake,6
+19,evening,happy,4,non-veg,none,Instant Noodles,10
+10,morning,sad,3,veg,none,Paneer Sandwich,3
+16,afternoon,sad,3,veg,gaming,Samosa,7
+21,night,stressed,3,veg,chilling,Nachos with Salsa,8
+21,night,energetic,4,veg,studying,Protein Shake,6
+18,evening,happy,4,veg,gaming,Instant Noodles,10
+15,afternoon,energetic,2,veg,none,Samosa,7
+16,afternoon,energetic,4,veg,none,Paneer Sandwich,3
+23,night,energetic,4,veg,gaming,Samosa,7
+13,afternoon,stressed,1,non-veg,studying,Masala Popcorn,1
+16,afternoon,lazy,3,veg,gym,Almonds & Raisins,9
+17,evening,sad,3,veg,studying,Ice Cream Cup,12
+8,morning,lazy,2,non-veg,studying,Ice Cream Cup,12
+12,afternoon,bored,4,non-veg,gym,Instant Noodles,10
+14,afternoon,lazy,3,veg,gym,Protein Shake,6
+11,morning,lazy,5,veg,none,Instant Noodles,10
+14,afternoon,happy,4,non-veg,chilling,Samosa,7
+20,evening,lazy,5,veg,gaming,Samosa,7
+16,afternoon,lazy,2,non-veg,chilling,Chocolate Bar,2
+20,evening,bored,3,non-veg,none,Nachos with Salsa,8
+18,evening,stressed,1,non-veg,chilling,Nachos with Salsa,8
+19,evening,happy,3,veg,studying,Almonds & Raisins,9
+11,morning,stressed,4,veg,chilling,Samosa,7
+22,night,energetic,4,veg,gaming,Masala Popcorn,1
+11,morning,energetic,3,non-veg,none,Fruit Salad,5
+8,morning,energetic,4,veg,none,Instant Noodles,10
+19,evening,bored,1,veg,none,Masala Popcorn,1
+14,afternoon,energetic,4,veg,chilling,Samosa,7
+20,evening,energetic,5,non-veg,studying,Almonds & Raisins,9
+11,morning,stressed,3,veg,none,Chocolate Bar,2
+18,evening,stressed,4,veg,none,Samosa,7
+23,night,stressed,4,veg,gaming,Samosa,7
+22,night,stressed,2,veg,chilling,Masala Popcorn,1
+16,afternoon,energetic,2,veg,gaming,Protein Shake,6
+11,morning,happy,3,veg,studying,Almonds & Raisins,9
+10,morning,happy,4,non-veg,none,Protein Shake,6
+16,afternoon,happy,3,veg,none,Almonds & Raisins,9
+22,night,lazy,2,non-veg,none,Grilled Fish,11
+8,morning,bored,2,non-veg,studying,Masala Popcorn,1
+7,morning,energetic,2,veg,chilling,Chocolate Bar,2
+20,evening,energetic,4,non-veg,studying,Almonds & Raisins,9
+20,evening,energetic,4,veg,chilling,Samosa,7
+13,afternoon,stressed,3,veg,none,Samosa,7
+8,morning,happy,2,non-veg,studying,Almonds & Raisins,9
+17,evening,lazy,3,veg,gym,Almonds & Raisins,9
+19,evening,bored,2,non-veg,chilling,Masala Popcorn,1
+17,evening,happy,3,veg,chilling,Samosa,7
+7,morning,bored,2,veg,gaming,Nachos with Salsa,8
+15,afternoon,happy,1,non-veg,gym,Protein Shake,6
+11,morning,stressed,1,veg,chilling,Ice Cream Cup,12
+18,evening,energetic,1,veg,gaming,Almonds & Raisins,9
+12,afternoon,happy,2,non-veg,chilling,Nachos with Salsa,8
+15,afternoon,stressed,2,non-veg,chilling,Masala Popcorn,1
+7,morning,happy,3,veg,gym,Almonds & Raisins,9
+14,afternoon,bored,2,veg,none,Masala Popcorn,1
+16,afternoon,energetic,1,veg,studying,Protein Shake,6
+21,night,stressed,4,veg,chilling,Almonds & Raisins,9
+12,afternoon,bored,2,veg,gaming,Samosa,7
+19,evening,stressed,5,non-veg,studying,Samosa,7
+18,evening,energetic,1,veg,studying,Protein Shake,6
+15,afternoon,bored,2,veg,gym,Almonds & Raisins,9
+23,night,stressed,2,veg,gaming,Nachos with Salsa,8
+12,afternoon,stressed,2,veg,none,Chocolate Bar,2
+17,evening,happy,5,veg,chilling,Samosa,7
+22,night,happy,2,veg,none,Protein Shake,6
+16,afternoon,energetic,5,non-veg,chilling,Samosa,7
+17,evening,sad,2,veg,gym,Protein Shake,6
+18,evening,bored,3,veg,gym,Almonds & Raisins,9
+11,morning,bored,5,non-veg,studying,Grilled Fish,11
+21,night,stressed,3,veg,gym,Fruit Salad,5
+8,morning,lazy,3,non-veg,gaming,Ice Cream Cup,12
+23,night,lazy,3,veg,studying,Paneer Sandwich,3
+17,evening,happy,2,veg,none,Almonds & Raisins,9
+12,afternoon,sad,3,non-veg,none,Samosa,7
+9,morning,lazy,3,veg,chilling,Ice Cream Cup,12
+12,afternoon,stressed,2,veg,gym,Protein Shake,6
+12,afternoon,happy,4,veg,gaming,Samosa,7
+7,morning,bored,2,non-veg,chilling,Nachos with Salsa,8
+7,morning,stressed,1,veg,chilling,Ice Cream Cup,12
+11,morning,stressed,2,veg,gaming,Paneer Sandwich,3
+20,evening,stressed,4,veg,chilling,Samosa,7
+21,night,happy,4,non-veg,gaming,Samosa,7
+9,morning,stressed,2,non-veg,none,Ice Cream Cup,12
+10,morning,sad,4,non-veg,gym,Almonds & Raisins,9
+15,afternoon,sad,3,veg,gaming,Masala Popcorn,1
+20,evening,stressed,5,non-veg,gaming,Samosa,7
+19,evening,stressed,2,non-veg,none,Ice Cream Cup,12
+18,evening,happy,2,veg,none,Fruit Salad,5
+13,afternoon,energetic,3,veg,studying,Almonds & Raisins,9
+22,night,stressed,1,non-veg,none,Masala Popcorn,1
+12,afternoon,happy,4,non-veg,chilling,Samosa,7
+12,afternoon,stressed,4,veg,gaming,Samosa,7
+23,night,energetic,4,veg,studying,Protein Shake,6
+10,morning,sad,2,veg,none,Ice Cream Cup,12
+20,evening,happy,4,veg,studying,Almonds & Raisins,9
