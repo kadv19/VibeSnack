@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "name": "Masala Popcorn",
+        "tags": [
+            "spicy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 2,
+        "name": "Chocolate Bar",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 3,
+        "name": "Paneer Sandwich",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 4,
+        "name": "Chicken Wrap",
+        "tags": [
+            "savory",
+            "non-veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 5,
+        "name": "Fruit Salad",
+        "tags": [
+            "healthy",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 6,
+        "name": "Protein Shake",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 7,
+        "name": "Samosa",
+        "tags": [
+            "spicy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 8,
+        "name": "Nachos with Salsa",
+        "tags": [
+            "spicy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 9,
+        "name": "Almonds & Raisins",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 10,
+        "name": "Instant Noodles",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 11,
+        "name": "Grilled Fish",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 12,
+        "name": "Ice Cream Cup",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 13,
+        "name": "Chicken Nuggets",
+        "tags": [
+            "savory",
+            "non-veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 14,
+        "name": "Veg Burger",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 15,
+        "name": "Greek Yogurt",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 16,
+        "name": "Fish & Chips",
+        "tags": [
+            "savory",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 17,
+        "name": "Apple Slices",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 18,
+        "name": "Beef Jerky",
+        "tags": [
+            "savory",
+            "non-veg",
+            "quick"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 19,
+        "name": "Hummus & Pita",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 20,
+        "name": "Granola Bar",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 21,
+        "name": "Chicken Tikka",
+        "tags": [
+            "spicy",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 22,
+        "name": "Veg Momos",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 23,
+        "name": "Chicken Momos",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 24,
+        "name": "Pav Bhaji",
+        "tags": [
+            "spicy",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 25,
+        "name": "French Fries",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 26,
+        "name": "Egg Sandwich",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 27,
+        "name": "Oatmeal Cookie",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 28,
+        "name": "Cheese & Crackers",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 29,
+        "name": "Muffin",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 30,
+        "name": "Chicken Wings",
+        "tags": [
+            "spicy",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 31,
+        "name": "Spring Rolls",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 32,
+        "name": "Tacos",
+        "tags": [
+            "spicy",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 33,
+        "name": "Veg Tacos",
+        "tags": [
+            "spicy",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 34,
+        "name": "Donut",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 35,
+        "name": "Smoothie Bowl",
+        "tags": [
+            "healthy",
+            "veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 36,
+        "name": "Boiled Eggs",
+        "tags": [
+            "healthy",
+            "non-veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 37,
+        "name": "Edamame",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 38,
+        "name": "Pani Puri",
+        "tags": [
+            "spicy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 39,
+        "name": "Bhel Puri",
+        "tags": [
+            "spicy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 40,
+        "name": "Chicken Salad",
+        "tags": [
+            "healthy",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 41,
+        "name": "Pizza Slice",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 42,
+        "name": "Pepperoni Pizza Slice",
+        "tags": [
+            "savory",
+            "non-veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 43,
+        "name": "Garlic Bread",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 44,
+        "name": "Onion Rings",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 45,
+        "name": "Mozzarella Sticks",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 46,
+        "name": "Hot Dog",
+        "tags": [
+            "savory",
+            "non-veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 47,
+        "name": "Veg Hot Dog",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 48,
+        "name": "Croissant",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 49,
+        "name": "Bagel with Cream Cheese",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 50,
+        "name": "Sushi Roll (Veg)",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 51,
+        "name": "Sushi Roll (Salmon)",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 52,
+        "name": "Pretzels",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 53,
+        "name": "Trail Mix",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 54,
+        "name": "Banana",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 55,
+        "name": "Orange",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 56,
+        "name": "Grapes",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 57,
+        "name": "Carrot Sticks with Dip",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 58,
+        "name": "Celery Sticks",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 59,
+        "name": "Rice Cakes",
+        "tags": [
+            "healthy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 60,
+        "name": "Cottage Cheese (Paneer)",
+        "tags": [
+            "healthy",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 61,
+        "name": "Tuna Salad",
+        "tags": [
+            "healthy",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 62,
+        "name": "Shrimp Cocktail",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 63,
+        "name": "Meatballs",
+        "tags": [
+            "savory",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 64,
+        "name": "Falafel Wrap",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 65,
+        "name": "Shawarma",
+        "tags": [
+            "savory",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 66,
+        "name": "Kebab",
+        "tags": [
+            "spicy",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 67,
+        "name": "Vada Pav",
+        "tags": [
+            "spicy",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 68,
+        "name": "Dhokla",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 69,
+        "name": "Idli Sambar",
+        "tags": [
+            "healthy",
+            "veg",
+            "heavy"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 70,
+        "name": "Dosa",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 71,
+        "name": "Upma",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 72,
+        "name": "Poha",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 73,
+        "name": "Aloo Paratha",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 74,
+        "name": "Omelette",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "low",
+        "heavy": true
+    },
+    {
+        "id": 75,
+        "name": "Scrambled Eggs",
+        "tags": [
+            "savory",
+            "non-veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 76,
+        "name": "Pancakes",
+        "tags": [
+            "sweet",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 77,
+        "name": "Waffles",
+        "tags": [
+            "sweet",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 78,
+        "name": "Toast with Jam",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    },
+    {
+        "id": 79,
+        "name": "Avocado Toast",
+        "tags": [
+            "healthy",
+            "veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 80,
+        "name": "Burrito",
+        "tags": [
+            "spicy",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 81,
+        "name": "Veg Burrito",
+        "tags": [
+            "spicy",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 82,
+        "name": "Quesadilla",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 83,
+        "name": "Cheese Quesadilla",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 84,
+        "name": "Mac and Cheese",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 85,
+        "name": "Spaghetti",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 86,
+        "name": "Meat Lasagna",
+        "tags": [
+            "savory",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 87,
+        "name": "Veg Lasagna",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 88,
+        "name": "Ramen",
+        "tags": [
+            "savory",
+            "non-veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 89,
+        "name": "Veg Ramen",
+        "tags": [
+            "savory",
+            "veg",
+            "heavy"
+        ],
+        "price": "medium",
+        "heavy": true
+    },
+    {
+        "id": 90,
+        "name": "Dim Sum",
+        "tags": [
+            "savory",
+            "non-veg",
+            "moderate"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 91,
+        "name": "Veg Dim Sum",
+        "tags": [
+            "savory",
+            "veg",
+            "moderate"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 92,
+        "name": "Cheesecake",
+        "tags": [
+            "sweet",
+            "veg",
+            "heavy"
+        ],
+        "price": "high",
+        "heavy": true
+    },
+    {
+        "id": 93,
+        "name": "Brownie",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 94,
+        "name": "Cupcake",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 95,
+        "name": "Macarons",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 96,
+        "name": "Churros",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 97,
+        "name": "Gelato",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "high",
+        "heavy": false
+    },
+    {
+        "id": 98,
+        "name": "Sorbet",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 99,
+        "name": "Frozen Yogurt",
+        "tags": [
+            "sweet",
+            "veg",
+            "quick"
+        ],
+        "price": "medium",
+        "heavy": false
+    },
+    {
+        "id": 100,
+        "name": "Popcorn (Butter)",
+        "tags": [
+            "savory",
+            "veg",
+            "quick"
+        ],
+        "price": "low",
+        "heavy": false
+    }
+]

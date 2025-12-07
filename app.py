@@ -102,8 +102,9 @@ with col2:
             
             # Why this snack?
             with st.expander("Why this snack?"):
-                st.write(f"Model Probability: {snack['prob']:.2f}")
-                st.write("Based on your inputs, this snack had the highest score matching your vibe.")
+                st.write(f"**Model Confidence:** {snack['prob']:.1%}")
+                explanation = model_utils.generate_explanation(st.session_state['user_input'], snack)
+                st.write(explanation)
                 
             # Alternatives (Static list of next 3)
             st.divider()
